@@ -7,7 +7,7 @@ Our data is currently being prepared. Once the manuscript is accepted and the da
 
 ## Introduction
 
-This is the public repository for the DGI-Corpus dataset associated with the manuscript titled "Fine-tuning Large Language Models to Assist in the Extraction of Chinese Disaster Geographical Spatial Information." Our aim is to promote research and development in this field by publishing disaster corpora available in the Chinese domain.
+This is the public repository for the DGI-Corpus dataset associated with the manuscript titled "Fine-Tuning LLM-Assisted Chinese Disaster Geospatial Intelligence Extraction and Case Studies" Our aim is to promote research and development in this field by publishing disaster corpora available in the Chinese domain.
 
 ## Using the Dataset
 
