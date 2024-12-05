@@ -1,7 +1,7 @@
 # About DGI-Corpus Dataset
 Thank you for visiting!
 
-This is the multi-hazard Chinese instruction fine-tuning dataset constructed in our paper, "Research on Chinese Disaster Geospatial Intelligence Extraction Assisted by Fine-Tuning Large Language Models."
+This is the multi-hazard Chinese instruction fine-tuning dataset constructed in our paper, "Fine-Tuning LLM-Assisted Chinese Disaster Geospatial Intelligence Extraction and Case Studies"
 
 Our data is currently being prepared. Once the manuscript is accepted and the data is de-identified, it will be uploaded to this repository. Please stay tuned for updates.
 
@@ -28,7 +28,7 @@ We look forward to your contributions and feedback to advance the field of Chine
 
 ## 简介
 
-这是名为“微调大语言模型辅助的中文灾害地理空间情报信息提取研究”文稿的**DGI-Corpus数据集**公开存储仓库。我们的目标是通过发布中文领域可用的灾害语料，促进该领域的研究与发展。
+这是名为“微调大语言模型辅助的中文灾害地理空间情报信息提取与案例研究”文稿的**DGI-Corpus数据集**公开存储仓库。我们的目标是通过发布中文领域可用的灾害语料，促进该领域的研究与发展。
 
 ## 使用数据集
 
